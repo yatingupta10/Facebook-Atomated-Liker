@@ -1,6 +1,6 @@
 import facebook
 import re
-token = "your token goes here"
+token = "CAACEdEose0cBAKL2h67I1fwKYa6Uhp803wI1dSgWEQUh5acbVJgZBZCQIelIZA7J9oF64qPppunu63PzOb4ejB4eK0poJSCaNPHuD9HN6ZCdSWBfiP6t71nf7nVucnPWhz86qUplxW6hXtDbhrLEcsD1PdZCJk8MtZA3GnqepCmLiHdeLqRzezrZB0toH1gghcUJIeYMpdS2AZDZD"
 profile = graph.get_object("3ST Technologies")
 posts = graph.get_connections(profile['id'],"posts")
 
