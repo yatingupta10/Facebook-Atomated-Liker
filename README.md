@@ -1,1 +1,1 @@
-Automated likes on posts on a particular fb page
+:thumbsup: Automated likes on posts of a particular fb page
